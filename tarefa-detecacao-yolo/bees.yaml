@@ -1,0 +1,13 @@
+path: img/bees
+train: train
+val: valid
+test: test
+
+names:
+  0: bee-queen-mite
+  1: bee
+  2: mite
+  3: pollen
+  4: queen
+  5: queen_cell
+  6: varroa
